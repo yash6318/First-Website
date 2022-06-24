@@ -1,0 +1,31 @@
+body{
+    background-color: #dce8e2;
+}
+h1 {
+   color: #993b75; 
+}
+h3 {
+    color: #59af1f;
+}
+hr {
+    background-color: white;
+    border-style: none;
+    /* border-top-style: dotted; */
+    height: 5px;
+    width: 50%;
+}
+img{
+    width:200px;
+    height:200px;
+}
+img:hover{
+    background-color: red;
+    filter:brightness(80%);
+    /* filter: opacity(80%); */
+    width:202px;
+    height:202px;
+}
+#yashImage {
+    border-radius: 100%;
+    background-color: rgb(173, 147, 108);
+}
